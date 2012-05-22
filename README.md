@@ -16,7 +16,7 @@ features:
 this program entry point has three modes of operation:
   - generate words (with -g)
   - consume and check words from stdin (with -c)
-  - interactive. type the word crank to start generating and checking forver
+  - interactive. type the word crank to start generating and checking forever
 
 (C) 2012, Carlos Puchol <cpg at rocketmail dot com>
 
